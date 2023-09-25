@@ -6,3 +6,5 @@ node_modules/
 
 # Ignore distribution files
 dist/
+
+.DS_Store/
