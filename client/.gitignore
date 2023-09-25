@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore Parcel cache
-parcel-cache/
+.parcel-cache/
 
 # Ignore distribution files
 dist/
